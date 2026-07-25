@@ -1,54 +1,49 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Daniyal+%F0%9F%91%8B;AI+Solutions+Architect;Building+AgenticCore+at+the+Edge;RAG+%C2%B7+LangGraph+%C2%B7+Cloudflare+Workers" alt="Typing SVG" />
+<a href="https://agenticcore.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Muhammad+Daniyal;AI+Solutions+Architect;Building+at+the+Edge+%E2%9A%A1;Serverless+%E2%80%A2+RAG+%E2%80%A2+Agents" alt="Muhammad Daniyal — AI Solutions Architect" />
+</a>
 
-<p>
-  <a href="https://agenticcore.tech"><img src="https://img.shields.io/badge/🌐_agenticcore.tech-6366F1?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:danyorllc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Available_for_Q1_2026-10B981?style=for-the-badge" />
-</p>
+<br/>
+
+**Founder @ [AgenticCore](https://agenticcore.tech)** · Karachi, Pakistan 🇵🇰  
+*I ship production AI systems on Cloudflare's edge — multi-tenant RAG, streaming agents, and lead-gen automation.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-agenticcore.tech-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://agenticcore.tech)
+[![Email](https://img.shields.io/badge/Hire_Me-danyorllc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyorllc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyorllc)
+
+![Profile Views](https://komarev.com/ghpvc/?username=danyorllc-stack&label=Profile+Views&color=6366F1&style=flat-square)
+![Available](https://img.shields.io/badge/Status-Available_for_Q1_2026-22C55E?style=flat-square)
 
 </div>
 
 ---
 
-### 🧠 About Me
-
-I design and ship **production-grade AI systems on the edge** — RAG pipelines, multi-tenant SaaS, autonomous agents, and embeddable AI widgets. Currently building **[AgenticCore](https://agenticcore.tech)**, a suite of serverless AI products for B2B SaaS teams.
-
-- 🚀 **Currently building:** DocuMind (multi-tenant RAG SaaS) & LeadCore AI (autonomous SDR agent)
-- 🛠 **Stack:** TypeScript · React · Cloudflare Workers · Hono · LangGraph · pgvector · Supabase
-- 💼 **Open for Q1 2026** — Custom AI features for B2B SaaS
-- 📩 **Reach me:** danyorllc@gmail.com
-
----
-
-### 🚢 Featured Products
+## 🚀 Live Products
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [DocuMind](https://agenticcore.tech)
-Multi-tenant RAG-as-a-Service.
-- pgvector + Row-Level Security
-- HMAC-signed embed widgets
-- Streaming SSE responses
-- Cloudflare Workers edge runtime
+### 🧠 [DocuMind](https://documind.agenticcore.tech)
+Multi-tenant RAG platform. Upload docs → get an AI knowledge assistant with tenant-isolated embeddings, HMAC-secured widgets, and streaming answers at the edge.
 
-**`RAG` `pgvector` `Multi-tenant` `Edge`**
+`RAG` · `pgvector` · `Cloudflare Workers` · `OpenAI`
+
+**[→ Try it live](https://documind.agenticcore.tech)**
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎯 [LeadCore AI](https://agenticcore.tech)
-Autonomous AI SDR / lead-qual agent.
-- Embeddable chat widget
-- Real-time lead scoring
-- CRM integrations
-- LangGraph state machine
+### 🎯 [LeadCore](https://leadcore.agenticcore.tech)
+AI-powered lead qualification & outreach agent. LangGraph state machine + tool calling automates prospecting, enrichment, and personalized cold email at scale.
 
-**`LangGraph` `AI SDR` `Widget SDK`**
+`LangGraph` · `Agents` · `Tool Calling` · `Automation`
+
+**[→ Try it live](https://leadcore.agenticcore.tech)**
 
 </td>
 </tr>
@@ -56,55 +51,51 @@ Autonomous AI SDR / lead-qual agent.
 
 ---
 
-### 🛠 Tech Arsenal
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danyorllc-stack&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyorllc-stack&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=danyorllc-stack&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=10B981&currStreakLabel=6366F1" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
 ---
 
-### 💼 What I'm Offering (Q1 2026)
+## 📊 GitHub Stats
 
-| Service | Timeline | Investment |
-|---|---|---|
-| 🧠 **Custom RAG Chatbot** | 2–3 weeks | $3k – $8k |
-| 🎯 **AI SDR / Lead-Qual Agent** | 2 weeks | $2.5k – $6k |
-| 🎙 **Voice AI (Vapi / Retell)** | 1–2 weeks | $2k – $5k |
-| ⚡ **AI MVP Sprint** | 2 weeks | $2.5k flat |
+<div align="center">
 
-📩 **Book a discovery call:** [agenticcore.tech](https://agenticcore.tech)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=danyorllc-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22C55E" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=danyorllc-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22C55E&currStreakLabel=6366F1" />
+
+</div>
+
+---
+
+## 💼 What I Build For Clients
+
+- 🧠 **RAG systems** — knowledge assistants, docs search, chatbots with your data
+- ⚡ **Edge AI APIs** — streaming, low-latency, global by default (Cloudflare Workers)
+- 🤖 **AI agents** — LangGraph-powered automation, tool use, multi-step reasoning
+- 🏢 **Multi-tenant SaaS** — RLS, tenant isolation, embeddable widgets with HMAC auth
+- 🔐 **Production hardening** — auth, MFA, rate limiting, security best practices
 
 ---
 
 <div align="center">
 
-*"Serverless AI, engineered at the edge."*
+### 💬 Let's Build Something
 
-<img src="https://komarev.com/ghpvc/?username=danyorllc-stack&label=Profile+views&color=6366F1&style=flat" />
+**Booking Q1 2026 slots** → [agenticcore.tech](https://agenticcore.tech)  
+Response within 24h · Fixed-price sprints · NDA-friendly
+
+<sub>⭐ If my work helps you, drop a star on the pinned repos.</sub>
 
 </div>
